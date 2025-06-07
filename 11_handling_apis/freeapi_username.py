@@ -1,4 +1,4 @@
-import requests
+import requests # type: ignore
 
 
 def fetch_random_user_freeapi():
